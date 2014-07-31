@@ -15,7 +15,7 @@ ADD motd /etc/
 ADD bashrc /.bashrc
 
 # ADD CODE
-ADD app /
+ADD app /app
 
 EXPOSE 8000
 EXPOSE 22
