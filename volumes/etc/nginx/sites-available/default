@@ -2,7 +2,7 @@ server {
     listen 8000;
     error_page 404 = /404.html;
     location / {
-        root /home/kite/app;
+        root /code;
         default_type "text/html";
         try_files $uri $uri.html $uri/index.html index.html;
     }

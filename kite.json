@@ -1,7 +1,10 @@
 {
-  "name": "html-base",
+  "name": "html",
   "version": "0.0.1",
   "description": "A basic HTML base app with SSH.",
   "author": "Kite Development Group",
-  "logo": "logo.png"
+  "logo": "logo.png",
+  "app": {
+    "webPort": 8000
+  }
 }
