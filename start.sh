@@ -1,2 +1,1 @@
-/usr/sbin/nginx &
-/usr/sbin/sshd -D
+/usr/sbin/nginx
