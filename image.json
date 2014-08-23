@@ -1,8 +1,8 @@
 {
   "name": "html",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "A basic HTML base app with SSH.",
-  "author": "Kite Development Group",
+  "author": "Kitematic Inc.",
   "logo": "logo.png",
   "app": {
     "webPort": 8000
