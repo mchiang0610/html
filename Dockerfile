@@ -6,4 +6,4 @@ VOLUME ["/code", "/etc/nginx/sites-available"]
 
 EXPOSE 8000
 
-CMD ["nginx"]
+CMD ["/usr/sbin/nginx"]
